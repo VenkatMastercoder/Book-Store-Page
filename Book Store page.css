@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+html {
+    margin: 0px;
+    border: 0px;
+}
+
+h1 {
+    padding-top: 45px;
+    padding-left: 25px;
+    color: white;
+    font-family: Bree Serif;
+    line-height: 15px;
+}
+
+h3 {
+    margin-top: 30px;
+    margin-left: 25px;
+    color: white;
+    font-family: Bree Serif;
+    line-height: 5px;
+}
+
+.top-img-card {
+    width: 180px;
+    height: 250px;
+}
+
+.main-div-page-1 {
+    background-color: #1b1b1b;
+    width: 530px;
+    height: 800px;
+}
+
+.card-1 {
+    margin: 20px;
+    background-color: #e6f6ff;
+    border-radius: 12px;
+    width: 480px;
+}
+
+.card-word-div {
+    font-family: Bree Serif, Roboto;
+    padding: 30px;
+}
+
+.p-c-1 {
+    color: #183b56;
+}
+
+.p-c-2 {
+    color: #06070d;
+}
+
+.p-c-3 {
+    color: #183b56;
+}
+
+.p-c-4 {
+    color: #ffffff;
+}
+
+.p-c-5 {
+    color: #9aa5b1;
+}
+
+
+.font {
+    font-size: 19px;
+
+}
+
+.d-font {
+    font-family: Bree Serif;
+}
+
+.bottom-img-card {
+    margin-left: 25px;
+    margin-top: 18px;
+    margin-right: 12px;
+    height: 168px;
+}
+
+.m-top {
+    margin-top: 15PX;
+}
+
+.r-padding {
+    padding-right: 255px;
+}
+
+.r-padding-2 {
+    padding-right: 195px;
+}
+
+.s-tt {
+    line-height: 45px;
+}
+
+.main-div-page-2 {
+
+    background-color: #1b1b1b;
+    width: 530px;
+    height: 890px
+}
+
+.page-2-div,
+.page-2-img {
+    padding-top: 15px;
+    text-align: center;
+    height: 350px;
+    line-height: 55px;
+}
+
+.page-2-h {
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.new-c {
+    margin: 25px;
+    text-align: left;
+    color: white;
+    line-height: 30px;
+    font-family: Bree Serif;
+}
