@@ -1,13 +1,13 @@
 # Book-Store-Page
 
-CSS Colors used:
+📌CSS Colors used:
 
-Background color Hex Code values:
+📍Background color Hex Code values:
 
     #e6f6ff
     #1b1b1b
 
-Text color Hex Code values:
+📍Text color Hex Code values:
 
     #06070d
     #ffffff
@@ -15,7 +15,7 @@ Text color Hex Code values:
     #e6f6ff
     #183b56
 
-CSS Font families used:
+📍CSS Font families used:
 
     Roboto
     Bree Serif
