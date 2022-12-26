@@ -6,7 +6,7 @@ Designed a static website where users can find out about my recommendations of b
 
 Technologies used: HTML, CSS, Bootstrap
 
-📌CSS Colors used:
+📌 CSS Colors used:
 
 📍Background color Hex Code values:
 
